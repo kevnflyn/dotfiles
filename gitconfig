@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rwestanton@gmail.com
+	name = Robert Stanton
